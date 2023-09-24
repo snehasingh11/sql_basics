@@ -1,2 +1,2 @@
 # sql_basics
-Auther-sneha
+Auther-sneha singh
